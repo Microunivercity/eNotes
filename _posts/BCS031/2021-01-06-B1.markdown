@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Block 1 Basics of Object Oriented Programming & C++"
+date:   2021-01-06 00:00:00 +0530
+categories: "3"
+tags: ["3rd Semester", "C++", "Block 1 Basics of Object Oriented Programming & C++"]
+permalink: /BSC031/B1/
+---
+
+#### [Unit 1 - OBJECT ORIENTED PROGRAMMING](/BSC031/B1/U1/)
+#### [Unit 2 - INTRODUCTION TO C++](/BSC031/B1/U2/)
+#### [Unit 3 - OBJECT AND CLASSES](/BSC031/B1/U3/)
+#### [Unit 4 - CONSTRUCTORS AND DESTRUCTORS](/BSC031/B1/U4/)

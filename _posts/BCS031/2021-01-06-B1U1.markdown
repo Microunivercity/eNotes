@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "OBJECT ORIENTED PROGRAMMING"
+date:   2021-01-06 00:00:00 +0530
+categories: "3"
+tags: ["3rd Semester", "C++", "OBJECT ORIENTED PROGRAMMING"]
+permalink: /BSC031/B1/U1/
+---
+
+1. [Introduction](#INTRODUCTION)
+2. [Objectives]()
+3. [Program and Programming]()
+4. [Programming Languages]()
+5. [Structured Programming Paradigm]()
+6. [Object-Oriented Programming Paradigm]()
+7. [Structured Vs. Object-Oriented Programming]()
+8. [Object-Oriented Programming Concepts]()
+9. [Benefits of OOPs]()
+10. [Summary]()
+
+### <a name="INTRODUCTION"></a>INTRODUCTION:
+
+The computer programs are the means used by human beings for communication with the machines especially the computers. As you all know, programs or the software contain instructions for the hardware to accept inputs, to process those inputs according to the instructions and to produce information as per the instructions contained in the program. The term ‘programming’ today is used to define the solution to a specific problem to be solved with the help of programs and it is said to define its solutions in terms of its design, creation, testing, debugging, implementation and its maintenance. Throughout the history of programming, ever increasing complexity of the problems to be solved using computers has encouraged the researchers and developers to evolve better means to manage this complexity. Complexity and intended areas of application coupled with some other factors have led to the evolution of a number of programming paradigms. Various programming languages are in use today depending upon various existing programming paradigms. 
+
+The structured programming and the Object-Oriented Programming (OOP) paradigms are the two paradigms that have been drawing attention of programmers for last so many years. The term OOP was used by Xerox PARC for the first time in its programming language, Smalltalk referring to the usage of objects as computational units for processing. The language Smalltalk itself got its inspiration from another OOP language called Simula 67 developed under the aegis of Simula Project in late 60s. The feature of inheritance introduced for the first time in Smalltalk allowed it to surpass both Simula 67 as well as other analog programming systems. Simula 67 and Smalltalk paved the way for many other OOP languages including C++ by 1980s. 
+
+This unit starts with a discussion on what a program is and what the programming is all about. It further highlights various important programming paradigms focussing basically on the structured and OOP paradigms. Subsequently, you will learn the main concepts involved in the OOP have been presented along with the benefits of OOP.

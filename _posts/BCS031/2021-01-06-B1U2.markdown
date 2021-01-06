@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "INTRODUCTION TO C++"
+date:   2021-01-06 00:00:00 +0530
+categories: "3"
+tags: ["3rd Semester", "C++", "INTRODUCTION TO C++"]
+permalink: /BSC031/B1/U2/
+---
